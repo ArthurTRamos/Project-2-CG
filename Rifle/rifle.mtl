@@ -1,0 +1,79 @@
+# Blender 5.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Cock
+Ns 640.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.545724 0.571125 0.577580
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/Cock_normal.jpg
+
+newmtl MetalBody
+Ns 640.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.545724 0.571125 0.577580
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/MetalBody_normal.jpg
+
+newmtl MetalPart
+Ns 640.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.545724 0.571125 0.577580
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/MetalPart_normal.jpg
+
+newmtl Pipe
+Ns 640.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.545724 0.571125 0.577580
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/Pipe_normal.jpg
+
+newmtl PipeBetween
+Ns 640.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.545724 0.571125 0.577580
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/PipeBetween_normal.jpg
+
+newmtl WoodenBig
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/WoodenBig_albedo.jpg
+map_Bump -bm 1.000000 C:/WoodenBig_normal.jpg
+
+newmtl WoodenSmall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/WoodenSmall_albedo.jpg
+map_Bump -bm 1.000000 C:/WoodenSmall_normal.jpg
